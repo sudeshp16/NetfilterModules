@@ -1,0 +1,4 @@
+git add "Filename"
+git commit -m "File"
+git push -u origin master
+
